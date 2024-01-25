@@ -7,8 +7,8 @@ I am harsha the new collab on Mountblue java stream : Git group Task
 
 Current samples of webste : 
 
-[Index Image](images/indexImg.png)
+![Index Image](images/indexImg.png)
 
-[Index Image](images/contactImg.png)
+![Index Image](images/contactImg.png)
 
-[Index Image](image/aboutImg.png)
+![Index Image](images/aboutImg.png)
